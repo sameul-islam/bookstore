@@ -27,7 +27,7 @@ const Home = () => {
       <Hero />
       <Services />
       <Banner />
-      <AppStore />
+      {/* <AppStore /> */}
       <Books />
       <Testimonial />
     </div>
